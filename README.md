@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Product Designer
+- 🔭 I’m currently working as Product Designer and Web Developer
 - 💻 Connect with me on **[LinkedIn]**
 - 📫 Reach me through the contact form at my **[Website]**
 
