@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 📫 Reach me through the contact form at my **[Website]**
 
 <h3>Technical Skills</h3>
-<p>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
-</p>
+
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ADOBEXD](https://img.shields.io/badge/-Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/fernando-rodrigues-jr/ "Fernando Rodrigues Jr."
 [website]: https://fernandordev.web.app/ "Fernando Rodrigues Jr."
