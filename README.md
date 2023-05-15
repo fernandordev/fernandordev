@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/fernando-rodrigues-jr/ "Fernando Rodrigues Jr."
-[website]: https://fernandordev.web.app/ "Fernando Rodrigues Jr."
+[website]: https://fernandorj.dev/ "Fernando Rodrigues Jr."
