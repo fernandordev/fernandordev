@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm **Fernando Rodrigues**, a passionate **Product Designer** and **Web Developer** with a strong background in building intuitive and visually appealing digital experiences.
+I'm a passionate **Product Designer** and **Web Developer** with a strong background in building intuitive and visually appealing digital experiences.
 
 - 🔭 Currently working as a **Product Designer & Web Developer**  
 - 💻 Connect with me on **[LinkedIn]**  
 - 📫 Reach me through the contact form at my **[Website]**  
-
----
 
 <h3>🚀 Technical Skills</h3>
 
@@ -23,8 +21,6 @@ I'm **Fernando Rodrigues**, a passionate **Product Designer** and **Web Develope
 ![UNITY](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 📌 Always open to new opportunities, collaborations, and challenges in the world of **design and development**!
 
